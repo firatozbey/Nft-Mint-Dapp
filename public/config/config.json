@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x406E0a5603B4194614c568293d7FcD956F1782Ed",
+  "SCAN_LINK": "https://polygonscan.com/address/0x406E0a5603B4194614c568293d7FcD956F1782Ed",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Kod Satiri",
+  "SYMBOL": "KSN",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "SHOW_BACKGROUND": true
+}
